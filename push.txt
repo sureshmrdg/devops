@@ -1,1 +1,5 @@
 learning push command in devops
+commands used for push operation in git
+#git move remote origin ip adress:this should be done after creating new repository in github,origin is the alias name for ip adress,this command helps to move all local repositories to github
+#git push origin master:moves all the files in your local repository to github
+#
